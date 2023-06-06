@@ -5,7 +5,7 @@
 |------ | ------- 
 | nodeJS | 14.x LTS
 
-# Usage
+# How to run and transform image into SVG
 1. Clone project
 2. Run command `npm install` to install all dependencies
 2. Run command `npm start` to run the project

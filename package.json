@@ -6,8 +6,8 @@
   "scripts": {
     "test": "jest --config ./jest.config.json",
     "test-watch": "npm run test -- --watch",
-    "start": "nodemon index.js",
-    "start-inspect": "nodemon  --inspect index.js"
+    "start": "nodemon main.js",
+    "start-inspect": "nodemon  --inspect main.js"
   },
   "repository": {
     "type": "git",
