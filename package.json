@@ -1,6 +1,6 @@
 {
   "name": "icontosvg",
-  "version": "1.1.0",
+  "version": "1.1.1",
   "description": "This utility to convert image, icons and graphics into svg",
   "main": "index.js",
   "scripts": {
